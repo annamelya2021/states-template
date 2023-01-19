@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/states-template/static/css/main.4e5c43dd.css",
+    "main.js": "/states-template/static/js/main.46c2f21d.js",
+    "index.html": "/states-template/index.html",
+    "main.4e5c43dd.css.map": "/states-template/static/css/main.4e5c43dd.css.map",
+    "main.46c2f21d.js.map": "/states-template/static/js/main.46c2f21d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e5c43dd.css",
+    "static/js/main.46c2f21d.js"
+  ]
+}
